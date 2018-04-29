@@ -3,24 +3,20 @@
 # BitShares Core Release 2.0.180205
 @oxarbitrage release this on...
 
+Note:
 
-### Assets
-- BitShares-Core-2.0.180205
-- Source code(zip)
-- Source code(tar.gz)
-
-## Security
+## Security fixes
 
 ## Critical Bug Fixes
 
-## Features and Improvements
+## New features and improvements
 * Implement BSIP26 refund original fee #627
   - Replaces #623. PR for #604
 
 ## Bugfixes
 
 
-## Other changes
+## Other changess
 
 
 ## Contributors in this release:
