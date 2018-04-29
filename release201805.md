@@ -48,7 +48,6 @@ Note:
   - Revised HF protection for #214 with additional test scenario #857
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
-
 * Fixed #588 Virtual operations should be excluded from transactions #698
 * Asset update issuer operation #599
 * Asset claim pool operation #572
