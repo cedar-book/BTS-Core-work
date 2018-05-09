@@ -82,7 +82,7 @@ Note:
 * @xeroc
 * @oxarbitrage
 * @ryanRfox
-* @alexpmorris 
+* @jmjatlanta
 
 
 ## SHA256 Checksum
