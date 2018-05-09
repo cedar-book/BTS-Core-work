@@ -24,7 +24,7 @@ Note:
 ***
 
 ### Assets
-- BitShares-Core-2.0.180205
+- BitShares-Core-2.0.180205-x64-cli-tools.zip
 - Source code(zip)
 - Source code(tar.gz)
 
