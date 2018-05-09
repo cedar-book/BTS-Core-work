@@ -35,7 +35,7 @@ Note:
 * BSIP30: Disallowed increasing debt when updating short position (BSIP30 part 2) #827, #672
 * BSIP35: Mitigate rounding issue when matching orders #830
   -  cherry-picked from #641, including changes related to #132, #184, #342 and BSIP35: Mitigate Rounding Issue On Order Matching
-* Bsip 36: Clear expired feeds on maintenance interval #889
+* BSIP36: Clear expired feeds on maintenance interval #889
   - New PR for issue: #518, refactored from PR #832
   - Clean up bitasset_data during maintenance #518
 * BSIP37: Allowed new asset name to end with a number (BSIP37) #705, #620
