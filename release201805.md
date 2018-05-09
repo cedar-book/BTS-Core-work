@@ -23,6 +23,12 @@ Note:
 
 ***
 
+### Assets
+- BitShares-Core-2.0.180205
+- Source code(zip)
+- Source code(tar.gz)
+
+
 ## Security fixes
 * BSIP 29: Require owner key for change of asset-issuer #199
   - PR #599
