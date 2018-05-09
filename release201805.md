@@ -27,8 +27,14 @@ Note:
 * BSIP 27: OP for issuer to reclaim fee pool funds #188
 * Implements BSIP31-34: Market engine  #641,#184, #59, #829, #830, #338 #343 #453 #606 #625 #649
 * Implement BSIP26: Refund order creation fee in original paid asset when order is cancelled #604
-* Implement BSIP26 Refund original fee #627
+  - Implement BSIP26 Refund original fee #627
   - Replaces #623. PR for #604
+* Implement BSIP38: add target CR option to short positions #834
+  - This is PR for #834 (BSIP38: add target_cr option to call order #834)
+* Bsip 36: Clear expired feeds on maintenance interval #889
+ - New PR for issue: #518, refactored from PR #832
+ - Clean up bitasset_data during maintenance #518
+
 
 ## Bugfixes
 - Fixed: Potential something-for-nothing fill bug #184, #338.#342, #505
@@ -48,6 +54,7 @@ Note:
   - Revised HF protection for #214 with additional test scenario #857
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
+* Created more test cases for BSIP 35 #883
 * Fixed #588 Virtual operations should be excluded from transactions #698
 * Asset update issuer operation #599
 * Asset claim pool operation #572
