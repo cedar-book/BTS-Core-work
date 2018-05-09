@@ -1,4 +1,4 @@
-## ****Draft****
+## ****Draft****  -- 201805 - Consensus Changing Release
 *open*
 - Review all new FC_ASSERT added to next hardfork release #679
 - Clear price feed data after updated a bitAsset's backing asset ID #868
