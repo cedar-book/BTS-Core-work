@@ -1,9 +1,10 @@
 ## ****Draft****  -- 201805 - Consensus Changing Release
 *open*
 
-- Review all new FC_ASSERT added to next hardfork release #679
+- Update median feeds after feed_lifetime_sec changed #901 (PR for #890)
 - Should update median feeds after feed_lifetime_sec changed #890
-- Issue 890 - update median feeds after feed_lifetime_sec changed #891
+- Clear price feed data after updated a bitAsset's backing asset ID #868
+- Review all new FC_ASSERT added to next hardfork release #679
 
 ***
 ***
@@ -70,6 +71,7 @@ Note:
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
 * Created more test cases for BSIP 35 #883
+* Issue 890 - update median feeds after feed_lifetime_sec changed #891 (replaced by #901)
 * Fixed #214 #841
   - Revised HF protection for #214 with additional test scenario #857
 * Fixed #588 Virtual operations should be excluded from transactions #698
