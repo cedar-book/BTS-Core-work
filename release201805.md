@@ -1,5 +1,6 @@
 ## ****Draft****  -- 201805 - Consensus Changing Release
 *open*
+
 - Review all new FC_ASSERT added to next hardfork release #679
 - Should update median feeds after feed_lifetime_sec changed #890
 - Issue 890 - update median feeds after feed_lifetime_sec changed #891
