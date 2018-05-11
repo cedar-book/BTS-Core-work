@@ -1,7 +1,13 @@
  ****Draft****  -- 201805 - NON - Consensus Changing Release
  
-  *(To the team.. Feel free to copy and use this page note)*
-  
+  *(To the team... Feel free to copy and use this page note)*
+
+
+
+
+***
+***
+
 # BitShares Core Release 2.0.180205
 @oxarbitrage release this on...
 
@@ -37,6 +43,7 @@ Note:
 * Added: Mmessage to FC_ASSERT in application.hpp #869
 * Added: Parameters to configure log rotation #805 #840
 * Changed: `list_assets` API limit to 101 #862
+* Fixed: Dump call stack on segmentation fault #727
 * Fixed: Feed expiration integer overflow issue #888 #892
 * Fixed: Handle acc_trx_his_object in get_relevant_accounts #816
 * Fixed: History ids #873
