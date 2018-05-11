@@ -1,4 +1,4 @@
-## ****Draft****  -- 201805 - Consensus Changing Release
+ ****Draft****  -- 201805 - Consensus Changing Release
   
   
 # BitShares Core Release 2.0.180205
