@@ -1,6 +1,6 @@
  ****Draft****  -- 201805 - Consensus Changing Release
  
-  *(Feel free to copy and use this page note)*
+  *(To the team.. Feel free to copy and use this page note)*
   
 # BitShares Core Release 2.0.180205
 @oxarbitrage release this on...
