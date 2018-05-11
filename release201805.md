@@ -20,7 +20,8 @@ Note:
 - Source code(zip)
 - Source code(tar.gz)
 
-
+***
+* [TESTNET] Update hard fork time for next release #909
 * Merged hardfork branch into release branch #906
 * Set TESTNET hard fork time to 2018-05-19T13:58:00Z #910
 
@@ -67,7 +68,7 @@ Note:
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
 * Created more test cases for BSIP35 #883
-* Issue 890 - update median feeds after feed_lifetime_sec changed #891 (replaced by #901)
+* Update median feeds after feed_lifetime_sec changed #891 (This should fix Issue #890) (replaced by #901)
 * Fixed #214 #841
   - Revised HF protection for #214 with additional test scenario #857
 * Fixed #588 Virtual operations should be excluded from transactions #698
