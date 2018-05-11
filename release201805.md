@@ -6,13 +6,6 @@
 
 Note:
 
-
-***
-
-(.. not sure which group)
-* Rounding issue when matching orders #342
-
-
 ***
 
 ### Assets
@@ -55,6 +48,7 @@ Note:
 * Fixed: Multiple limit order and call order matching issue #453, #537
 * Fixed: Potential erratic order matching issue involving margin call orders #625
 * Fixed: Potential something-for-nothing fill bug #184, #338.#342, #505
+* Fixed: Rounding issue when matching orders #342
 * Fixed: Unable to propose a proposal with an `approve_proposal` operation #214, #658, #492
 * Fixed: Undercollateralized short positions should be called regardless of asks #606, #625, #641
 * Fixed: Updated median feeds after feed_lifetime_sec changed #901 (PR for #890)
@@ -68,14 +62,14 @@ Note:
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
 * Created more test cases for BSIP35 #883
-* Update median feeds after feed_lifetime_sec changed #891 (This should fix Issue #890) (replaced by #901)
 * Fixed #214 #841
   - Revised HF protection for #214 with additional test scenario #857
 * Fixed #588 Virtual operations should be excluded from transactions #698
 * Fixed for Issue 868 - Reset feeds when changing the backing asset from one asset to another #882
   - Clear price feed data after updated a bitAsset's backing asset ID #900 (PR for #868)
-* Review and test something-for-nothing check #132, #338, #342
-* Update median feeds after feed_lifetime_sec changed #904 (PR for #890. Based on #901)
+* Reviewed and tested something-for-nothing check #132, #338, #342
+* Update median feeds after feed_lifetime_sec changed #891 #904 (PR for #890. Based on #901)
+* Update median feeds after feed_lifetime_sec changed #891 (This should fix Issue #890)
 
 ## Contributors in this release:
 * @abitmore
