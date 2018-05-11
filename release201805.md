@@ -1,14 +1,6 @@
 ## ****Draft****  -- 201805 - Consensus Changing Release
-*open*
-
-- Update median feeds after feed_lifetime_sec changed #901 (PR for #890)
-- Should update median feeds after feed_lifetime_sec changed #890
-- Clear price feed data after updated a bitAsset's backing asset ID #868
-- Review all new FC_ASSERT added to next hardfork release #679
-
-***
-***
-
+  
+  
 # BitShares Core Release 2.0.180205
 @oxarbitrage release this on...
 
@@ -29,14 +21,15 @@ Note:
 - Source code(tar.gz)
 
 
+* Merged hardfork branch into release branch #906
+* Set TESTNET hard fork time to 2018-05-19T13:58:00Z #910
+
 ## Security fixes
 * BSIP 29: Require owner key for change of asset-issuer #199
   - PR #599
-
-## Critical Bug Fixes
+* Reviewed all new FC_ASSERT added to next hardfork release #679
 
 ## New features and improvements
-
 * BSIP27: OP for issuer to reclaim fee pool funds #188
 * BSIP30: Disallowed increasing debt when updating short position (BSIP30 part 2) #827, #672
 * BSIP35: Mitigate rounding issue when matching orders #830
@@ -54,13 +47,16 @@ Note:
 
 ## Bugfixes
 * Fixed: Black swan detection checks short position with lowest call_price but not lowest collateral ratio #649
+* Fixed: Clear price feed data after updated a bitAsset's backing asset ID #868 
 * Fixed: Inconsistent sorting of call orders between matching against a limit order and a force settle order #343
+* Fixed: In `asset_update_bitasset_evaluator::do_apply()` - Should update median feeds after feed_lifetime_sec changed #890
 * Fixed: Margin call order fills at price of matching limit_order but not at a price related to itself or settlement_price #338
 * Fixed: Multiple limit order and call order matching issue #453, #537
 * Fixed: Potential erratic order matching issue involving margin call orders #625
 * Fixed: Potential something-for-nothing fill bug #184, #338.#342, #505
 * Fixed: Unable to propose a proposal with an `approve_proposal` operation #214, #658, #492
 * Fixed: Undercollateralized short positions should be called regardless of asks #606, #625, #641
+* Fixed: Updated median feeds after feed_lifetime_sec changed #901 (PR for #890)
 * Fixed: Virtual operations should be excluded from transactions #588
   - PR #591
 
@@ -70,7 +66,7 @@ Note:
 * Asset update issuer operation #599
 * Cleaned feeds at maint time #598
 * Cleaned up HF409 related code #712
-* Created more test cases for BSIP 35 #883
+* Created more test cases for BSIP35 #883
 * Issue 890 - update median feeds after feed_lifetime_sec changed #891 (replaced by #901)
 * Fixed #214 #841
   - Revised HF protection for #214 with additional test scenario #857
@@ -78,6 +74,7 @@ Note:
 * Fixed for Issue 868 - Reset feeds when changing the backing asset from one asset to another #882
   - Clear price feed data after updated a bitAsset's backing asset ID #900 (PR for #868)
 * Review and test something-for-nothing check #132, #338, #342
+* Update median feeds after feed_lifetime_sec changed #904 (PR for #890. Based on #901)
 
 ## Contributors in this release:
 * @abitmore
