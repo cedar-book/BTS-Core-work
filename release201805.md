@@ -14,9 +14,12 @@ Note:
 - Source code(tar.gz)
 
 ***
+### 
 * [TESTNET] Update hard fork time for next release #909
 * Merged hardfork branch into release branch #906
 * Set TESTNET hard fork time to 2018-05-19T13:58:00Z #910
+
+***
 
 ## Security fixes
 * BSIP 29: Require owner key for change of asset-issuer #199
@@ -51,7 +54,7 @@ Note:
 * Fixed: Rounding issue when matching orders #342
 * Fixed: Unable to propose a proposal with an `approve_proposal` operation #214, #658, #492
 * Fixed: Undercollateralized short positions should be called regardless of asks #606, #625, #641
-* Fixed: Updated median feeds after feed_lifetime_sec changed #901 (PR for #890)
+* Fixed: Updated median feeds after feed_lifetime_sec changed #891 #904 (PR for #890. Based on #901)
 * Fixed: Virtual operations should be excluded from transactions #588
   - PR #591
 
@@ -68,8 +71,6 @@ Note:
 * Fixed for Issue 868 - Reset feeds when changing the backing asset from one asset to another #882
   - Clear price feed data after updated a bitAsset's backing asset ID #900 (PR for #868)
 * Reviewed and tested something-for-nothing check #132, #338, #342
-* Update median feeds after feed_lifetime_sec changed #891 #904 (PR for #890. Based on #901)
-* Update median feeds after feed_lifetime_sec changed #891 (This should fix Issue #890)
 
 ## Contributors in this release:
 * @abitmore
