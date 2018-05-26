@@ -10,7 +10,7 @@ Github: https://github.com/bitshares/bitshares-core/releases/tag/test-2.0.180525
 
 ---
 
-##Details about this release:
+## Details about this release:
 
 #### 1. Protocol upgrade (hard fork) related:
 * [Bugfix #922 / #931 / #970] Fixed missing checks when updating a smart coin's `bitasset` options E.G. force settlement delay, backing asset ID or etc;
