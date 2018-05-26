@@ -1,7 +1,5 @@
 # BitShares Core TESTNET Release: test-2.0.180525  
 
-
-
 #### TESTNET Protocol upgrade (Hard fork) time is scheduled at `Thu, 31 May 2018 14:00:00 UTC`.
 
 **Testnet nodes (especially witnesses and public seed nodes and API nodes) please upgrade in time (before the scheduled time).**
