@@ -12,12 +12,12 @@ Github: https://github.com/bitshares/bitshares-core/releases/tag/test-2.0.180525
 
 ##Details about this release:
 
-### 1. Protocol upgrade (hard fork) related:
+#### 1. Protocol upgrade (hard fork) related:
 * [Bugfix #922 / #931 / #970] Fixed missing checks when updating a smart coin's `bitasset` options E.G. force settlement delay, backing asset ID or etc;
 * [Bugfix #935] Fixed missing margin call checks introduced in fix for #868 and #890 in last testnet release.
 * [Bugfix #942] Fixed missing asset authorities check for "from" account when claiming from a withdraw permission.
 
-### 2. Other updates (including the ones done in last testnet release but not included in the release notes)
+#### 2. Other updates (including the ones done in last testnet release but not included in the release notes)
 
 * [FC repository PR #36] Support Boost 1.64-1.65
 * [FC repository PR #43] Fixed a memory leak issue in TCP socket destruction
