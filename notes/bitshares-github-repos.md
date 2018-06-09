@@ -40,20 +40,21 @@ AS a result, I reached to manage BitShares documentation files and repositories 
 
 ***
 
-**Example: GitHub Output**
+### Example: GitHub Output
+
 Contents pages output differences in GitHub repositories
 
 #### .RST markup language file
 
 <p align="center">
-  <img src="/images/git-rst.png" width="400" title="Repo">
+  <img src="/images/git-rst.png" width="450" title="Repo">
 </p>
 
 
 #### .MD markup language file
 
 <p align="center">
-  <img src="/images/git-md.png" width="400"  title="Repo">
+  <img src="/images/git-md.png" width="450"  title="Repo">
 </p>
 
 ***
