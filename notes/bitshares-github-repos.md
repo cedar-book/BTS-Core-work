@@ -40,7 +40,7 @@ AS a result, I reached to manage BitShares documentation files and repositories 
 
 ***
 
-**Example:**
+**Example: GitHub Output**
 Contents pages output differences in GitHub repositories
 
 #### .RST markup language file
