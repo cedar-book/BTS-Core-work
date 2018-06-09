@@ -45,7 +45,7 @@ AS a result, I reached to manage BitShares documentation files and repositories 
 #### .RST markup file in GitHub
 
 <p align="center">
-  <img src="/images/git-rst.png" width="450" title="Repo">
+  <img src="/images/git-rst.png" width="400" title="Repo">
 </p>
 
 
