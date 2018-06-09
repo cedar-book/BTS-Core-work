@@ -1,4 +1,8 @@
-Hi,
+This page purpose:  Show BitShars two repositories structures and the reason. 
+
+- [how.bitshares.works & dev.bitshares.works](https://github.com/bitshares/dev.bitshares.works/blob/master/note.md)
+
+***
 
 I’ve asked before in this group and in the Core team about how to present BitShares documentation.
 
