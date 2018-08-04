@@ -19,14 +19,15 @@ Core - BitShares base information and documents
   -
 
 ## 3. BitShares Accounts
-- Account
-- Memberships and Groups
-- Fees
-- Vesting Balances
-- Permissions
-- Referral Program
-- Voting
-- Account Registration
+- General information 
+  - Account
+  - Memberships and Groups
+  - Fees
+  - Vesting Balances
+  - Permissions
+  - Referral Program
+  - Voting
+- Account Registration -CLI
   - Create a brain Key and derive a private/public key pair
   - Create an Account
   - Register an Account
