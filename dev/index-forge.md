@@ -39,17 +39,17 @@ Forge - for developers and users
 - 
 
 ## 7. Use Cases
- 1. Exchange Integration
- 1. BitShares Exchange Preparation (Single Node)
- 1. DEX Preparation
- 1. Running a Gateway
- 1. Accepting payments
- 1. Payment Plugins  
+- Exchange Integration
+- BitShares Exchange Preparation (Single Node)
+- DEX Preparation
+- Running a Gateway
+- Accepting payments
+- Payment Plugins  
  
 ## 8.Tutorials / FAQs
 
 	
 ## References / Support
- 1. Developers GitHub Repositories (Contributions)
- 1. Articles
+-  Developers GitHub Repositories (Contributions)
+-  Articles
 
