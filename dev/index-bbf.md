@@ -9,39 +9,40 @@ For the BBF Users Gule - No Codings information included
 ### [BitShares Blockchain](/bbf/tech/Readme.md#the-bitshares-blockchain)
 1. Introduction
 2. [Architectures](/bbf/tech/architecture.md#architectures)
-  - Blockchain
-  - Consensus
-  - DPoS
-  - Extensibility
-  - Networking - P2P Network
-  - Protocol
-  - Performance and Scalability
-  - Transactions
+    - Blockchain
+    - Consensus
+    - DPoS
+    - Extensibility
+    - Networking - P2P Network
+    - Protocol
+    - Performance and Scalability
+    - Transactions
 3. [What’s different in BitShares](/bbf/tech/diff_bitshares.md#whats-different-in-bitshares)
-  - Authorities
-  - Encrypted Memos
-  - Fees
-  - Identiry
-  - Permissions
+    - Authorities
+    - Encrypted Memos
+    - Fees
+    - Identiry
+    - Permissions
   
 ### [User Guide](/bbf/user_guide#user-guide) 
 1. [BitShares Accounts](/bbf/user_guide/accounts#bitshares-accounts)
 2. [Create a BitShares Wallet](/bbf/user_guide/create_account.md#create-a-bitshares-wallet)
-  - download light wallet or use web wallet
-  - create an account
+    - download light wallet or use web wallet
+    - create an account
 3. [BitShares Client and Login Mode](/bbf/user_guide/bitshares_client.md#bitshares-client-and-login-mode)
 4. [BitShares Wallet Features](/bbf/user_guide/wallet_options1.md#bitshares-wallet-features)
 5. [Backup and Restore your Wallet](/bbf/user_guide/backup_local_wallet.md#backups-and-restore-your-wallet)
 6. [Deposit & Withdraw](/bbf/user_guide#deposit--withdraw)
-  - transfer
+    - transfer
 7. [Exchange / Explore](/bbf/user_guide#exchange--explore)
-  - trade
-  - ...
+    - trade
+    - ...
 8. Wallet Functions & Settings 
 
 ### [BTS Holder Guide](/bbf/bts_holder_guide#bts-holder-guide)
 The Beginning of BitShares, tyhe Governance, Assets / Tokens, DEX, Vest Balances, etc
 **-- People involved / services*-
+
 1. [The Beginning of BitShares](/bbf/bts_holder_guide/initial-allocation.md#the-beginning-of-bitshares)
   - Supply, Working Budget, Block Production (Witnesses), Project Funding (Workers), Transaction Fees & Fee Schedule, and Legality of the BTS token
 2. [The Governance of BitShares](/bbf/bts_holder_guide/governance.md#the-governance-of-bitshares)
