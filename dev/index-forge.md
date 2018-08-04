@@ -5,10 +5,10 @@ Forge - for developers and users
   - Short description of each
   - How they're connected (protocol)
 
-## 2. Inside System Structure
-- Data objects structure
+- System Structure (inside)
+  - Data objects structure
 
-## 3. Installation Guide and Development Environment
+## 2. Installation Guide and Development Environment
 - System requirements
 - Ubuntu Linux
 - OS X
@@ -17,7 +17,7 @@ Forge - for developers and users
 - Build and Run BitShares-Core in WSL (for Windows10)
 - known issues
 
-## 4. How to Get Started 
+## 3. How to Get Started 
 ### For Businesses, Integration guide
 - if you're an external exchange
 - if you want to run an exchange on top of BitShares
@@ -27,19 +27,25 @@ Forge - for developers and users
 - if want to build a bot
 - ...
 
-### How to Get started (steps for developers)
+### Steps for developers
 - if you're a backend developer
 - if you're a web developer
 - if you're a mobile app developer
 - script developer
 - ...
 
-## 5. For Advanced Users
+## 4. For Advanced Users
 - Issue an asset
 - botting
 - 
 
-## 6. 
+## Support Tools and Plugins
+- API Support & References
+- Plugins
+- SDKs/Tools
+- Developers GitHub Repositories (Contributions)
+
+## 6. Tutorials / FAQs
 
 ## 7. Use Cases
 - Exchange Integration
@@ -49,10 +55,7 @@ Forge - for developers and users
 - Accepting payments
 - Payment Plugins  
  
-## 8.Tutorials / FAQs
-
 	
-## References / Support
--  Developers GitHub Repositories (Contributions)
+## References
 -  Articles
 
