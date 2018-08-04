@@ -5,7 +5,7 @@ Core - BitShares base information and documents
 - BitShares Core Projects Guide
 - BitShares Core Code Management - GitFlow
 
-## 2. Inside System Structure and Feautures
+## 2. Inside System Structure and Features
 - data objects structure
 - consensus
 - features 
