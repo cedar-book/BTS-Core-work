@@ -39,7 +39,7 @@ Forge - for developers and users
 - botting
 - 
 
-## Support Tools and Plugins
+## 5. Support Tools and Plugins
 - API Support & References
 - Plugins
 - SDKs/Tools
