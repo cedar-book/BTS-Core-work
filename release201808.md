@@ -117,10 +117,9 @@
 - Updated system requirements into Documents #1107
 - Updated to get rid of obsolete constants - fix #1034,#1072
 
-
+*(I was not sure where...)*
 - Reverted "Capture Ctrl+C in cli_wallet when not in daemon mode #1193" #1220
   - -->> Capture Ctrl+C in cli_wallet when not in daemon mode (PR for #1193) #1207
-
 
 ## Contributors in this release:
 
