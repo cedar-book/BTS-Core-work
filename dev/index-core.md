@@ -1,18 +1,22 @@
 Core - BitShares base information and documents
 
 ## 1. Introduction & Architectures
-- BitShares Architecture (foundation)
+- BitShares Architecture
 - BitShares Core Projects Guide
 - BitShares Core Code Management - GitFlow
 
-## 2. Install a Development Environment
-- System requirements
-- Ubuntu Linux
-- OS X
-- Windows
-- Windows - CLI Tools
-- Build and Run BitShares-Core in WSL (for Windows10)
-- known issues
+## 2. Inside System Structure and Feautures
+- data objects structure
+- consensus
+- features 
+  - accounts
+  - assets
+  - voting
+  - DEX
+  - fees
+  - transaction
+  - sign, signatures
+  -
 
 ## 3. BitShares Accounts
 - Account
@@ -65,7 +69,7 @@ Core - BitShares base information and documents
    
   
 ## 8. Knowledge Base
-- 
+- Developing partitioning algorithms (and other processes)
 - 
   
 ## Index  
