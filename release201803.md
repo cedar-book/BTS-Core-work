@@ -1,11 +1,9 @@
 ## ****Draft****
 
-# BitShares Core Release 2.0.180203
-@oxarbitrage release this on...
-
+# BitShares Core Release 2.0.180328
 
 ### Assets
-- BitShares-Core-2.0.180203
+- BitShares-Core-2.0.180328
 - Source code(zip)
 - Source code(tar.gz)
 
@@ -24,8 +22,8 @@
 * Added SSL, Boost and websocket to Version commands #579, #610
 * Added New plugin and API: grouped orders #639, #662
 * Added `withdraw_permission` API calls #676
+* Added Travis-CI build status iconds for branches: master, develop, hardfork, testnet and bitshares-fc #748
 * Changed `get_account_history` API call #628 (for issue #613)
-* Enabled Travis-CI for develop branch #748
 * Issue491: Minor delta_debt amount check issue in `call_order_update_evaluator` #609
 * Partially fixed Issue #151: CLI account caching #640
 * Port plugin sanitization code from Steem to BitShares #468 #660
@@ -55,7 +53,6 @@
 * Removed unused transaction_object.cpp #667
 * Removed `by_feed_expiration` index from `asset_bitasset_data_object` #652
 * Removed redundant template func add_secondary_index #749
-* 
 * Removed unused index.cpp file #638
 
 
@@ -72,6 +69,4 @@
 * @ryanRfox
 
 ## SHA256 Checksum
-* `BitShares-Core-2.0.180203-x64--cli-tools.zip `: Windows 
-
-
+* `BitShares-Core-2.0.180328-x64--cli-tools.zip `: Windows 
