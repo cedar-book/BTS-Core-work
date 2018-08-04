@@ -1,9 +1,12 @@
-## BitShares Core Release 2.0.1808
+# BitShares Core Release 2.0.1808
 
 
 ### Assets
 
-
+- BitShares-Core-2.0.1808-macOS-cli-tools.tar.gz
+- BitShares-Core-2.0.1808-x64-cli-tools.zip
+- Source code (zip)
+- Source code (tar.gz) 
 
 
 ### Security fixes
