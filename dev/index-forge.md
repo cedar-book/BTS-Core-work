@@ -4,7 +4,6 @@ Forge - for developers and users
 - System Components (the outside, network architecture)
   - Short description of each
   - How they're connected (protocol)
-
 - System Structure (inside)
   - Data objects structure
 
