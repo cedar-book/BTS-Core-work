@@ -1,12 +1,11 @@
 Forge - for developers and users
 
-### 1. System Components (the outside, network architecture)
+## 1. System Components (the outside, network architecture)
 - Architecture (outside network)
   - System, hardware, software
   - Short description of each
   - how they're connected (protocol)
-
-### 2. Inside system
+## 2. Inside system
 - data objects structure
 - consensus
 - features 
@@ -22,7 +21,7 @@ Forge - for developers and users
   - market
   - orders
 
-### 3. BitShares Community and roles
+## 3. BitShares Community and roles
 - People involved / services around
  - Members
  - BTS holders
@@ -34,7 +33,7 @@ Forge - for developers and users
  - UI Team
  - 
 
-### 4. How to Get Started (for Businesses, Integration guide)
+## 4. How to Get Started (for Businesses, Integration guide)
 **What are there differences? 
 
 - if you're an external exchange
@@ -45,26 +44,26 @@ Forge - for developers and users
 - if want to build a bot
 - ...
 
-### 5. How to get started (steps for developers)
+## 5. How to get started (steps for developers)
 - if you're a backend developer
 - if you're a web developer
 - if you're a mobile app developer
 - script developer
 - ...
 
-### 6. How to get started (for users)
+## 6. How to get started (for users)
 - download light wallet or use web wallet
 - create an account
 - transfer
 - trade
 - ...
 
-### 7. For advanced users
+## 7. For advanced users
 - issue an asset
 - botting
 - 
 
-### 8. Use Cases
+## 8. Use Cases
  1. Exchange Integration
  1. BitShares Exchange Preparation (Single Node)
  1. DEX Preparation
@@ -72,10 +71,10 @@ Forge - for developers and users
  1. Accepting payments
  1. Payment Plugins  
  
-### 9.Tutorials / FAQs
+## 9.Tutorials / FAQs
 
 	
-### References / Support
+## References / Support
  1. Developers GitHub Repositories (Contributions)
  1. Articles
 
