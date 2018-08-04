@@ -21,6 +21,7 @@
 * Added `get_top_markets` API #512, #737
 * Added SSL, Boost and websocket to Version commands #579, #610
 * Added New plugin and API: grouped orders #639, #662
+* Added New plugin: elasticsearch objects #500
 * Added `withdraw_permission` API calls #676
 * Added Travis-CI build status iconds for branches: master, develop, hardfork, testnet and bitshares-fc #748
 * Changed `get_account_history` API call #628 (for issue #613)
