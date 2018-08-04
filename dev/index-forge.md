@@ -8,7 +8,6 @@ Forge - for developers and users
 ## 2. Inside System Structure
 - Data objects structure
 
-
 ## 3. Installation Guide and Development Environment
 - System requirements
 - Ubuntu Linux
