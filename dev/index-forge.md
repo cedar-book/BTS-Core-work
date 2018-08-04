@@ -17,7 +17,8 @@ Forge - for developers and users
 - Build and Run BitShares-Core in WSL (for Windows10)
 - known issues
 
-## 4. How to Get Started (for Businesses, Integration guide)
+## 4. How to Get Started 
+### For Businesses, Integration guide
 - if you're an external exchange
 - if you want to run an exchange on top of BitShares
 - if you're a merchant, or want to build tools for merchants, to accept bitUSD or etc
@@ -26,17 +27,19 @@ Forge - for developers and users
 - if want to build a bot
 - ...
 
-## 5. How to Get started (steps for developers)
+### How to Get started (steps for developers)
 - if you're a backend developer
 - if you're a web developer
 - if you're a mobile app developer
 - script developer
 - ...
 
-## 6. For Advanced Users
+## 5. For Advanced Users
 - Issue an asset
 - botting
 - 
+
+## 6. 
 
 ## 7. Use Cases
 - Exchange Integration
