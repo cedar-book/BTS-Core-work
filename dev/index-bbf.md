@@ -6,7 +6,7 @@ For the BBF Users Gule - No Codings information included
 - [BitShares Whitepaper](http://www.bitshares.foundation/papers/BitSharesBlockchain.pdf)
 - [BitShares Blockchain Foundation Announcements ](http://www.bitshares.foundation/)
 
-### [BitShares Blockchain](/bbf/tech/Readme.md#the-bitshares-blockchain)
+## [BitShares Blockchain](/bbf/tech/Readme.md#the-bitshares-blockchain)
 1. Introduction
 2. [Architectures](/bbf/tech/architecture.md#architectures)
     - Blockchain
@@ -24,7 +24,7 @@ For the BBF Users Gule - No Codings information included
     - Identiry
     - Permissions
   
-### [User Guide](/bbf/user_guide#user-guide) 
+## [User Guide](/bbf/user_guide#user-guide) 
 1. [BitShares Accounts](/bbf/user_guide/accounts#bitshares-accounts)
 2. [Create a BitShares Wallet](/bbf/user_guide/create_account.md#create-a-bitshares-wallet)
     - download light wallet or use web wallet
@@ -39,7 +39,7 @@ For the BBF Users Gule - No Codings information included
     - ...
 8. Wallet Functions & Settings 
 
-### [BTS Holder Guide](/bbf/bts_holder_guide#bts-holder-guide)
+## [BTS Holder Guide](/bbf/bts_holder_guide#bts-holder-guide)
 The Beginning of BitShares, tyhe Governance, Assets / Tokens, DEX, Vest Balances, etc
 **-- People involved / services*-
 
@@ -68,7 +68,7 @@ The Beginning of BitShares, tyhe Governance, Assets / Tokens, DEX, Vest Balances
 
 
 
-### [Resources](/bbf/resources#resources)
+## [Resources](/bbf/resources#resources)
 BitShares Blockchain Foundation, Bitshares Block Exploer, BitShares Community, External Resources, etc
 
 ***
