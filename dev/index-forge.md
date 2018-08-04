@@ -5,8 +5,9 @@ Forge - for developers and users
   - Short description of each
   - How they're connected (protocol)
 
-## 2. Inside System Structure and Features
-- data objects structure
+## 2. Inside System Structure
+- Data objects structure
+
 
 ## 3. Installation Guide and Development Environment
 - System requirements
