@@ -33,19 +33,12 @@ Forge - for developers and users
 - script developer
 - ...
 
-## 6. How to Get started (for users)
-- download light wallet or use web wallet
-- create an account
-- transfer
-- trade
-- ...
-
-## 7. For Advanced Users
+## 6. For Advanced Users
 - Issue an asset
 - botting
 - 
 
-## 8. Use Cases
+## 7. Use Cases
  1. Exchange Integration
  1. BitShares Exchange Preparation (Single Node)
  1. DEX Preparation
@@ -53,7 +46,7 @@ Forge - for developers and users
  1. Accepting payments
  1. Payment Plugins  
  
-## 9.Tutorials / FAQs
+## 8.Tutorials / FAQs
 
 	
 ## References / Support
