@@ -1,41 +1,23 @@
 Forge - for developers and users
 
-## 1. System Components (the outside, network architecture)
-- Architecture (outside network)
-  - System, hardware, software
+## 1. BitShares Infrastructure/Architecture
+- System Components (the outside, network architecture)
   - Short description of each
-  - how they're connected (protocol)
-## 2. Inside system
-- data objects structure
-- consensus
-- features 
-  - accounts
-  - assets
-  - voting
-  - DEX
-  - fees
-  - transaction
-  - sign, signatures
-  - proposed 
-  - referral, membership
-  - market
-  - orders
+  - How they're connected (protocol)
 
-## 3. BitShares Community and roles
-- People involved / services around
- - Members
- - BTS holders
- - committee
- - witness
- - worker
- - proxy
- - Core Team
- - UI Team
- - 
+## 2. Inside System Structure and Features
+- data objects structure
+
+## 3. Installation Guide and Development Environment
+- System requirements
+- Ubuntu Linux
+- OS X
+- Windows
+- Windows - CLI Tools
+- Build and Run BitShares-Core in WSL (for Windows10)
+- known issues
 
 ## 4. How to Get Started (for Businesses, Integration guide)
-**What are there differences? 
-
 - if you're an external exchange
 - if you want to run an exchange on top of BitShares
 - if you're a merchant, or want to build tools for merchants, to accept bitUSD or etc
@@ -44,22 +26,22 @@ Forge - for developers and users
 - if want to build a bot
 - ...
 
-## 5. How to get started (steps for developers)
+## 5. How to Get started (steps for developers)
 - if you're a backend developer
 - if you're a web developer
 - if you're a mobile app developer
 - script developer
 - ...
 
-## 6. How to get started (for users)
+## 6. How to Get started (for users)
 - download light wallet or use web wallet
 - create an account
 - transfer
 - trade
 - ...
 
-## 7. For advanced users
-- issue an asset
+## 7. For Advanced Users
+- Issue an asset
 - botting
 - 
 
