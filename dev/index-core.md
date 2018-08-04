@@ -1,11 +1,11 @@
 Core - BitShares base information and documents
 
-## Introduction & Architectures
+## 1. Introduction & Architectures
 - BitShares Architecture (foundation)
 - BitShares Core Projects Guide
 - BitShares Core Code Management - GitFlow
 
-## Install a Development Environment
+## 2. Install a Development Environment
 - System requirements
 - Ubuntu Linux
 - OS X
@@ -14,7 +14,7 @@ Core - BitShares base information and documents
 - Build and Run BitShares-Core in WSL (for Windows10)
 - known issues
 
-## BitShares Accounts
+## 3. BitShares Accounts
 - Account
 - Memberships and Groups
 - Fees
@@ -27,7 +27,7 @@ Core - BitShares base information and documents
   - Create an Account
   - Register an Account
 
-## BitShares Nodes
+## 4. BitShares Nodes
 - Node / Client
 - Full / Witness node
 - Block producer (witness node)
@@ -35,7 +35,7 @@ Core - BitShares base information and documents
   - process/setup
   - 
   
-## Cli_Wallet and the Connectivity 
+## 5. Cli_Wallet and the Connectivity 
 - BitShares CLI Client and Wallet 
   - Architecture/Components
 - Connecting a Cli Wallet
@@ -44,7 +44,7 @@ Core - BitShares base information and documents
   - High security setup (delayed full node)
 
 
-## BitShares API
+## 6. BitShares API
 - BitShares-Core API References
 - API Access & Restrictions
 - Objects and IDs
@@ -53,7 +53,7 @@ Core - BitShares base information and documents
   - REST API
 - 
 
-## Testnets
+## 7. Testnets
 - Public Testnet for all
   - UI
   - CLI
@@ -64,7 +64,7 @@ Core - BitShares base information and documents
   - Nignx webserver
    
   
-## Knowledge Base
+## 8. Knowledge Base
 - 
 - 
   
