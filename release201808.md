@@ -9,11 +9,11 @@
 - Source code (tar.gz) 
 
 
-### Security fixes
+## Security fixes
 - Updated Choice of range proof params in cli wallet reveals transaction magnitude to very narrow range for Blinded transfers (closed by #1117) #480
 - Updated Range proof mantissa minimum bit length (Fixed #480) #1117
 
-### New features and improvements
+## New features and improvements
 - Added CLI startup option to only generate keys #1011, #1039
 - Added exit or quit command to cli_wallet  #1104,#1050
 - Added fail reason to proposal object #730, #1036
@@ -36,7 +36,7 @@
 - Integrated SonarCloud (More info: https://about.sonarcloud.io/.) - closed by #1081	#836
 - Optimized P2P find() #1090
 
-#### Docker File
+### Docker File
 - Changed default docker p2p port to 1776, #1226
 - Fixed Dockerfile (fix #1221) #1222
 - Fixed Docker Build Failing Due to Compile Time #1221
@@ -45,14 +45,14 @@
 - Modified Dockerfile to work with new docker cloud version #1075
 - Updated testnet Branch to Include Latest Dockerfile		#1074
 
-#### Elasticsearch
+### Elasticsearch
 - Elasticsearch feature requests. #1103
 - Elasticsearch refactor #1122
 - Implemented Detect error on _bulk API on elasticsearch plugin #681
 - Updated Elasticsearch refactor - added basic auth, `operation_id_num` , removed logs #1122
 - Updated ElasticSearch test cases framework	#1047
 
-### Bugfixes
+## Bugfixes
 - Fixed `cancel_all_subscriptions` API (Merged #1009) Closing. #762
 - Fixed `cli_wallet` throws error and crashes - OS: macOS 10.13.5 #1127
 - Fixed CLI `get_account_history` pagination issue - PR for #1176. #1177
@@ -63,7 +63,7 @@
 - Fixed Short-cut long sequences of missed blocks (Fix #1086) #1087
 - Refactored `cancel_all_subscriptions` (#762) #1009
 
-### Other changes
+## Other changes
 - Added `asset_api_tests` (for the branch) #1202
 - Added API to query for open orders of one account in one market #849
 - Added Build Error Template (Fix for #1021) #1030
@@ -122,7 +122,7 @@
   - -->> Capture Ctrl+C in cli_wallet when not in daemon mode (PR for #1193) #1207
 
 
-### Contributors in this release:
+## Contributors in this release:
 
 - @pmconrad
 - @abitmore
@@ -142,5 +142,5 @@
 	
 	
 	
-### SHA256 Checksum	
+## SHA256 Checksum	
 
