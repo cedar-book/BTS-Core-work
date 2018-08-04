@@ -9,5 +9,5 @@
 
 - [For all (beginner) users](https://github.com/cedar-book/BTS-Core-work/blob/master/dev/index-bbf.md)
 
-*added links from we currently have*
+*The BBF index has links from pages we currently have.*
 
