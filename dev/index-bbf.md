@@ -41,7 +41,7 @@ For the BBF Users Gule - No Codings information included
 
 ### [BTS Holder Guide](/bbf/bts_holder_guide#bts-holder-guide)
 The Beginning of BitShares, tyhe Governance, Assets / Tokens, DEX, Vest Balances, etc
-*People involved / services*
+**-- People involved / services*-
 - [The Beginning of BitShares](/bbf/bts_holder_guide/initial-allocation.md#the-beginning-of-bitshares)
   - Supply, Working Budget, Block Production (Witnesses), Project Funding (Workers), Transaction Fees & Fee Schedule, and Legality of the BTS token
 - [The Governance of BitShares](/bbf/bts_holder_guide/governance.md#the-governance-of-bitshares)
