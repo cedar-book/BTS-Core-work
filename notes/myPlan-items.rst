@@ -4,7 +4,7 @@
 Doc Plan (draft)
 ***********************
 
-**There items are I am listing here what I might be able to work on 
+**There items are some documentation work items that I could thought about. I've listed as a draft.  
 
 Items
 ========================
@@ -35,7 +35,7 @@ Items
 
   - examine
   
-* where/how classes and other functions have been used in the BitShares application code (programs) 
+* where/how classes and other functions/methods have been used in the BitShares application code (programs) 
 
   - find sample program area from the existing code
   - examine 
@@ -109,7 +109,9 @@ Items
 
   - features/functions list (+ short description) 
 
+|
 
+by TSugimoto
   
 
 |
