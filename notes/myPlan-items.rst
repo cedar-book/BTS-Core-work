@@ -18,7 +18,7 @@ Items
 2. Improvement
 -------------------
 * improve tutorials and FAQs contents
-
+* add links to eash API calls (in the API section) to open a Doxygen location directory (?)
 * glossary list
 
   - add more terms
@@ -99,13 +99,13 @@ Items
 8. Other
 -----------
  
-* some summary list of BSIP (?)
+* some summary list of BSIP to see a ccurent situation (?)
 
-* wallet functionalities
+* wallet functionalities (code/library)
 
   - features/functions list (+ short description) 
   
-* witness node functionalities
+* witness node functionalities (code/library)
 
   - features/functions list (+ short description) 
 
