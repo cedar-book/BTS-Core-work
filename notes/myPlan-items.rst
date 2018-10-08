@@ -30,7 +30,7 @@ Items
 * create flowcharts of some processes (flows / layers)
 
 
-4. Find examples
+4. Find examples (how to use)
 --------------------
 * where/how 'operations' have been used in the BitShares application code (programs) 
 
@@ -60,9 +60,9 @@ Items
 
   - "hello world" 
   
-* find each coding samples areas (how it has been used in programs) 
+* find each sample cording area (how it has been used in programs) 
   
-  - examine components and flow
+  - examine and draw a flow
   
   
 6. Create and Add contents
@@ -106,15 +106,15 @@ Items
 9. Other
 -----------
  
-* some short summary list of BSIP to show current situation (?)
+* gather BitShares discussion items (from issues or BSIP)(?)
 
-* wallet functionalities (code/library)
+* wallet functionalities (code/library) list
 
-  - features/functions list (+ short description) 
+  - features/functions (+ short description) 
   
-* witness node functionalities (code/library)
+* witness node functionalities (code/library) list
 
-  - features/functions list (+ short description) 
+  - features/functions (+ short description) 
 
 |
 
