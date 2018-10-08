@@ -1,7 +1,7 @@
 .. _my-plan:
 
 ***********************
-Doc Plan (draft)
+Documentation Plan (draft)
 ***********************
 
 **These items are some documentation work items that I could thought about. I've listed as a draft.  
@@ -118,7 +118,7 @@ Items
 
 |
 
-by TSugimoto
+- TSugimoto
   
 
 |
