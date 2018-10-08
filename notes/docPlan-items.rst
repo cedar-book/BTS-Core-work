@@ -78,7 +78,7 @@ Items
   - add wiki legacy pages (.md --> .rst)
   - (e.g.) add documented issues or information that need to be documented
   
-
+~strike~
   
 7. Look into the issues (from users)
 ------------------------
