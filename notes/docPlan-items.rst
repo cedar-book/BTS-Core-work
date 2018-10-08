@@ -78,31 +78,6 @@ Items
   - add wiki legacy pages (.md --> .rst)
   - (e.g.) add documented issues or information that need to be documented
   
-  
-7. Look into the issues (from users)
-------------------------
-* BitShares-Core
-
-  - documentation of issues
-  
-* dev.bitshares.works
-
-  - update/improvement
-  
-* how.bitshares.works
-
-  - update/improvement
-  
-
-8. BitShares-UI
----------------------
-(Probably, I can manage the upper level User guide because I am not BitShares-UI team. BitShares-UI team should add/create their version of User Guide(?))
-
-* update
-
-  - somehow/someone need to manage UI User Guide section
-  - BitShares-UI repository issues - 'Documentation' tag to find out what need to be updated. 
- 
 9. Other
 -----------
  
@@ -118,12 +93,42 @@ Items
 
 -----------------
 
+--------------------
+
+7. Look into the issues (from users)
+------------------------
+* BitShares-Core
+
+  - documentation of issues
+  
+* dev.bitshares.works
+
+  - update/improvement
+  
+* how.bitshares.works
+
+  - update/improvement
+
+----------------------------
+
+**BBF - User Guide**
+
+8. BitShares-UI
+---------------------
+(Probably, I can manage the upper level User guide because I am not BitShares-UI team. BitShares-UI team should add/create their version of User Guide(?))
+
+* update
+
+  - somehow/someone need to manage UI User Guide section
+  - BitShares-UI repository issues - 'Documentation' tag to find out what need to be updated. 
+  
 |
+---------------------
+
 
 TSugimoto
   
 
-|
 
 |
 
