@@ -55,7 +55,7 @@ Items
 
 5. plugins
 ----------------------
-* concept (in BitShares. *Alfredo's presentation material)
+* introduce concept (*Alfredo's presentation material)
 * how to create
 
   - "hello world" 
