@@ -69,10 +69,10 @@ Items
 ------------------------  
 * improve the System Components Elements section
 
-  - add more features and definitions (*grouping) 
+  - add more features and definitions (*think about better grouping/indexing) 
 
 * look into BitShares-FC components (?)
-* "hello world" like examples of some procedures (?) 
+* "hello world" examples of some procedures (?) 
 * add Knowledge Base section and create the contents 
 
   - add wiki legacy pages (.md --> .rst)
