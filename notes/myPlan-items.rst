@@ -4,7 +4,7 @@
 Doc Plan (draft)
 ***********************
 
-**There items are some documentation work items that I could thought about. I've listed as a draft.  
+**These items are some documentation work items that I could thought about. I've listed as a draft.  
 
 Items
 ========================
@@ -13,66 +13,73 @@ Items
 ---------------
 * updates/maintain current documentations (dev/how)
 
-  - fix,renew
+  - update,fix...
 
 2. Improvement
 -------------------
 * improve tutorials and FAQs contents
-* add links to eash API calls (in the API section) to open a Doxygen location directory (?)
-* glossary list
+* add links to each API calls (in the API section) to open a Doxygen location directory (?)
+* glossary (General and BitShares) lists
 
   - add more terms
 
 
-3. Find examples
-----------------
-* where/how operations have been used in the BitShares application code (programs) 
+3. flowcharts
+-------------------------
 
-  - find sample programs (class/function) from the existing code that include some operations components
+* create flowcharts of some processes (flows / layers)
+
+
+4. Find examples
+--------------------
+* where/how 'operations' have been used in the BitShares application code (programs) 
+
+  - find sample programs areas (class/function) from the existing code (*including particular  operations/components)
   - examine
  
 * how 'objects' have been used in in the BitShares functions (programs) 
 
+  - show example coding areas
   - examine
   
-* where/how classes and other functions/methods have been used in the BitShares application code (programs) 
+* where/how classes/functions/methods have been used in the BitShares application code 
 
-  - find sample program area from the existing code
+  - find sample program areas from the existing code
   - examine 
   
-* how functions are constructed and used (upper level)
+* Create functions list for users to find easily
 
-  - (*seek - better way to appeal and let users know what BitShares-Core offers)
-  - structures, group...
+  - file, name, params, short description... (*seek - better way to appeal and let users know what BitShares-Core offers)
+  - (wallet, witness node, node,?)
   
 
-4. plugins
+5. plugins
 ----------------------
-* concept
+* concept (in BitShares. *Alfredo's presentation material)
 * how to create
 
   - "hello world" 
   
-* find each coding samples (how it has been used in programs) 
+* find each coding samples areas (how it has been used in programs) 
   
-  - examine current plugins  
+  - examine components and flow
   
   
-5. Create and Add contents
+6. Create and Add contents
 ------------------------  
 * improve the System Components Elements section
 
-  - add more features and definitions 
+  - add more features and definitions (*grouping) 
 
 * look into BitShares-FC components (?)
-* "hello world" (?) 
+* "hello world" like examples of some procedures (?) 
 * add Knowledge Base section and create the contents 
 
-  - add wiki legacy pages
+  - add wiki legacy pages (.md --> .rst)
   - (e.g.) add documented issues or information that need to be documented
   
   
-6. Look into the issues (from users)
+7. Look into the issues (from users)
 ------------------------
 * BitShares-Core
 
@@ -87,7 +94,7 @@ Items
   - update/improvement
   
 
-7. BitShares-UI
+8. BitShares-UI
 ---------------------
 (Probably, I can manage the upper level User guide because I am not BitShares-UI team. BitShares-UI team should add/create their version of User Guide(?))
 
@@ -96,10 +103,10 @@ Items
   - somehow/someone need to manage UI User Guide section
   - BitShares-UI repository issues - 'Documentation' tag to find out what need to be updated. 
  
-8. Other
+9. Other
 -----------
  
-* some summary list of BSIP to see a ccurent situation (?)
+* some short summary list of BSIP to show current situation (?)
 
 * wallet functionalities (code/library)
 
