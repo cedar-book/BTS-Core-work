@@ -71,7 +71,7 @@ Items
 
   - add more features and definitions (*think about better grouping/indexing) 
 
-* look into BitShares-FC components (?)
+* ~~look into BitShares-FC components~~ (?)
 * "hello world" examples of some procedures (?) 
 * add Knowledge Base section and create the contents 
 
