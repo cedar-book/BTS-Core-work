@@ -108,11 +108,11 @@ Items
  
 * gather BitShares discussion items (from issues or BSIP)(?)
 
-* wallet functionalities (code/library) list
+* wallet functionalities (code/library) list to find/learn easily
 
   - features/functions (+ short description) 
   
-* witness node functionalities (code/library) list
+* witness node functionalities (code/library) list to find/learn easily
 
   - features/functions (+ short description) 
 
