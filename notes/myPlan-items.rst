@@ -116,9 +116,11 @@ Items
 
   - features/functions (+ short description) 
 
+-----------------
+
 |
 
-- TSugimoto
+TSugimoto
   
 
 |
