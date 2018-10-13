@@ -7,8 +7,10 @@ Documentation Plan
 - add information list pages (api, database_api(classes/struct)
 - Transactions processes (elements flows charts?)
 - Multi-sig UI - How to use?
-- directory structures (node/wallet) 
+- directory structures after install (node/wallet) 
+- create a wiki legacy folder and create pages. [10/12: will finish soon.]
 
+|
 
 -------
 
