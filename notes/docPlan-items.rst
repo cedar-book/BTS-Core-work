@@ -1,9 +1,18 @@
 .. _my-plan:
 
 ***********************
-Documentation Plan (draft)
+Documentation Plan
 ***********************
 
+- add information list pages (api, database_api(classes/struct),  
+- Transactions processes (elements flows charts?)
+- Multi-sig UI - How to use?
+- directory structures (node/wallet) 
+
+
+-------
+
+(draft)
 **These items are some documentation work items that I could thought about. I've listed as a draft.  
 
 Items
