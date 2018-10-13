@@ -6,6 +6,9 @@ Documentation Plan
 
 - add information list pages (api, database_api(classes/struct)
 - Transactions processes (elements flows charts?)
+
+  - validation, transfer, history, blocks, ...
+  
 - Multi-sig UI - How to use?
 - directory structures after install (node/wallet) 
 - add contents to Totorials and FAQs
