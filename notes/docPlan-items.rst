@@ -8,6 +8,7 @@ Documentation Plan
 - Transactions processes (elements flows charts?)
 - Multi-sig UI - How to use?
 - directory structures after install (node/wallet) 
+- add contents to Totorials and FAQs
 - create a wiki legacy folder and create pages. [10/12: will finish soon.]
 
 |
