@@ -21,6 +21,7 @@ Documentation Plan
 
   - transaction.hhp
     - transaction
+    
     - get_required_autotities, signed_transaction, sign, minimize-required_signatures, get_required_siguratures, verify_authority, get_signatures_keys, sign_state, ..)
   
   
