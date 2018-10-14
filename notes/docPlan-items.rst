@@ -39,7 +39,7 @@ Documentation Plan
   - (i.e., datadir... )
 
 * create a wiki legacy folder and create pages. [10/12: will finish soon.]
-* Test cases - categories, test cases name list (i.e., index)
+* create a Test cases index page - categories, test cases name list 
 
 
 |
