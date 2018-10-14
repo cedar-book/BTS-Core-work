@@ -4,6 +4,7 @@
 Documentation Plan
 ***********************
 
+- Test cases - categories, test cases name list
 - add information list pages (api, database_api(classes/struct)
 - Transactions processes (elements flows charts?)
 
