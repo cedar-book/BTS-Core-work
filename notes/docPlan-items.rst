@@ -9,12 +9,12 @@ Documentation Plan
 
   - process flow
  
-* add information list pages (api, database_api(classes/struct) methods names and descriptions. index page)
-* Transactions processes (elements flows charts?)
+* create methods information list (api, database_api(classes/struct) methods names and descriptions. index page)
+* about Transactions processes (elements flows charts?)
 
   - validation, history, blocks, ...
   
-* Flowcharts
+* create Flowcharts
 
   - transaction.hhp
     - transaction
@@ -33,7 +33,7 @@ Documentation Plan
 * add contents to Tutorials and FAQs
 
 * Multi-sig UI - How to set and use?
-* directory structures and files after the installation (node/wallet) 
+* show directory structures and files after the installation (node/wallet) 
 
   - (i.e., datadir... )
 
