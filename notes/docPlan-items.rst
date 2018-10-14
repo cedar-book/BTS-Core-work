@@ -5,17 +5,17 @@ Documentation Plan
 ***********************
 (I am going to work on or have been working in.)
 
-- Update "exchange_single_node.md" --> "exchange_single_node.RST"
+* Update "exchange_single_node.md" --> "exchange_single_node.RST"
 
- - process flow
+  - process flow
  
-- 
-- add information list pages (api, database_api(classes/struct) methods names and descriptions. index page)
-- Transactions processes (elements flows charts?)
+* 
+* add information list pages (api, database_api(classes/struct) methods names and descriptions. index page)
+* Transactions processes (elements flows charts?)
 
   - validation, history, blocks, ...
   
-- Flowcharts
+* Flowcharts
 
   - transaction.hhp
     - transaction
@@ -30,15 +30,16 @@ Documentation Plan
     
     - (login, enable_api, network, broadcase_api, on_applied_block, broadcase_transaction, broad_transaction_synchronous, brodcast_block, broadcast_transaction_with_callback, get_info, add_node, get_fill_order_history, get_account_history, get_account_history_operations, get_relative_account_history, get_account_history_by_operations, get_market_history,..)
   
-- add contents to Tutorials and FAQs
+* create an index page (different groups and sorts)
+* add contents to Tutorials and FAQs
 
-- Multi-sig UI - How to use?
-- directory structures and files after the installation (node/wallet) 
+* Multi-sig UI - How to use?
+* directory structures and files after the installation (node/wallet) 
 
   - (i.e., datadir... )
 
-- create a wiki legacy folder and create pages. [10/12: will finish soon.]
-- Test cases - categories, test cases name list (i.e., index)
+* create a wiki legacy folder and create pages. [10/12: will finish soon.]
+* Test cases - categories, test cases name list (i.e., index)
 
 
 |
