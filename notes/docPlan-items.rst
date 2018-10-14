@@ -3,7 +3,7 @@
 ***********************
 Documentation Plan
 ***********************
-(I am going to work on or have been working in.)
+(This section lists items I am going to work on or have been working on.)
 
 * Update "exchange_single_node.md" --> "exchange_single_node.RST"
 
@@ -37,7 +37,7 @@ Documentation Plan
 
   - (i.e., datadir... )
 
-* think how to intruduce (transaction, orders, history, ElasticSearch Pluin, ...)
+* think how to introduce (transaction, orders, history, ElasticSearch Pluin, ...)
 * create a wiki legacy folder and create pages. [10/12: will finish soon.]
 * create a Test cases index page - categories, test cases name list 
 
@@ -48,7 +48,7 @@ Documentation Plan
 
 
 
-**These items are some documentation work items that I could thought about. 
+**These items are some documentation work items that I could think about. 
 
 Items
 ========================
