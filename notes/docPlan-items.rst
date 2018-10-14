@@ -3,25 +3,40 @@
 ***********************
 Documentation Plan
 ***********************
+(I am going to work on or have been working in.)
 
-- Test cases - categories, test cases name list
-- add information list pages (api, database_api(classes/struct)
+- Update "exchange_single_node.md" --> "exchange_single_node.RST"
+- 
+- add information list pages (api, database_api(classes/struct) methods names and descriptions. index page)
 - Transactions processes (elements flows charts?)
 
   - validation, history, blocks, ...
   
 - Multi-sig UI - How to use?
 - directory structures and files after the installation (node/wallet) 
+
+  - (i.e., datadir... )
+
+- Flowcharts
+
+  - transaction.hhp
+    - transaction
+    - get_required_autotities, signed_transaction, sign, minimize-required_signatures, get_required_siguratures, verify_authority, get_signatures_keys, sign_state, ..)
+  
+  
+  
 - add contents to Totorials and FAQs
 - create a wiki legacy folder and create pages. [10/12: will finish soon.]
+- Test cases - categories, test cases name list (i.e., index)
+
 
 |
 
 -------
 
-(draft)
 
-**These items are some documentation work items that I could thought about. I've listed as a draft.  
+
+**These items are some documentation work items that I could thought about. 
 
 Items
 ========================
