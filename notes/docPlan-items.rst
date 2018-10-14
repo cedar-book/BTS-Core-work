@@ -22,9 +22,15 @@ Documentation Plan
   - transaction.hhp
     - transaction
     
-    - get_required_autotities, signed_transaction, sign, minimize-required_signatures, get_required_siguratures, verify_authority, get_signatures_keys, sign_state, ..)
+    - (get_required_autotities, signed_transaction, sign, minimize-required_signatures, get_required_siguratures, verify_authority, get_signatures_keys, sign_state, ..)
   
+  - application_impl.hxx
   
+    - get_api_access_info, set_api_access_info, has_item, handle_block, handle_transaction, is_included_block, get_block_ids, get_blockchain_synopsdis, 
+    
+  - api.cpp
+    
+    - login, enable_api, network, broadcase_api, on_applied_block, broadcase_transaction, broad_transaction_synchronous, brodcast_block, broadcast_transaction_with_callback, get_info, add_node, get_fill_order_history, get_account_history, get_account_history_operations, get_relative_account_history, get_account_history_by_operations, get_market_history,..)
   
 - add contents to Totorials and FAQs
 - create a wiki legacy folder and create pages. [10/12: will finish soon.]
