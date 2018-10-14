@@ -37,7 +37,7 @@ Documentation Plan
 
   - (i.e., datadir... )
 
-* think how to introduce (transaction, orders, history, ElasticSearch Pluin, ...)
+* think how to introduce (transaction, orders, history, ElasticSearch Pluin, ... processes/methods)
 * create a wiki legacy folder and create pages. [10/12: will finish soon.]
 * create a Test cases index page - categories, test cases name list 
 
