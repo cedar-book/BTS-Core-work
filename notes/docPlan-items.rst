@@ -5,7 +5,7 @@ Documentation Plan
 ***********************
 (This section lists items I am going to work on or have been working on.)
 
-* Update "exchange_single_node.md" --> "exchange_single_node.RST"
+* Update "exchange_single_node.md" --> "exchange_single_node.RST" [refined:10/14/2018]
 
   - process flow
  
