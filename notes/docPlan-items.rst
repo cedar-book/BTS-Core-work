@@ -9,7 +9,6 @@ Documentation Plan
 
   - process flow
  
-* 
 * add information list pages (api, database_api(classes/struct) methods names and descriptions. index page)
 * Transactions processes (elements flows charts?)
 
@@ -38,6 +37,7 @@ Documentation Plan
 
   - (i.e., datadir... )
 
+* think how to intruduce (transaction, orders, history, ElasticSearch Pluin, ...)
 * create a wiki legacy folder and create pages. [10/12: will finish soon.]
 * create a Test cases index page - categories, test cases name list 
 
