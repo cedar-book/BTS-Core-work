@@ -32,7 +32,7 @@ Documentation Plan
 * create an index page (different groups and sorts)
 * add contents to Tutorials and FAQs
 
-* Multi-sig UI - How to use?
+* Multi-sig UI - How to set and use?
 * directory structures and files after the installation (node/wallet) 
 
   - (i.e., datadir... )
