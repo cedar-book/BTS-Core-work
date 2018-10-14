@@ -12,11 +12,6 @@ Documentation Plan
 
   - validation, history, blocks, ...
   
-- Multi-sig UI - How to use?
-- directory structures and files after the installation (node/wallet) 
-
-  - (i.e., datadir... )
-
 - Flowcharts
 
   - transaction.hhp
@@ -33,6 +28,12 @@ Documentation Plan
     - login, enable_api, network, broadcase_api, on_applied_block, broadcase_transaction, broad_transaction_synchronous, brodcast_block, broadcast_transaction_with_callback, get_info, add_node, get_fill_order_history, get_account_history, get_account_history_operations, get_relative_account_history, get_account_history_by_operations, get_market_history,..)
   
 - add contents to Totorials and FAQs
+
+- Multi-sig UI - How to use?
+- directory structures and files after the installation (node/wallet) 
+
+  - (i.e., datadir... )
+
 - create a wiki legacy folder and create pages. [10/12: will finish soon.]
 - Test cases - categories, test cases name list (i.e., index)
 
