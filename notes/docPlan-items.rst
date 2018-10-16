@@ -5,9 +5,6 @@ Documentation Plan
 ***********************
 (This section lists items I am going to work on or have been working on.)
 
-* Update "exchange_single_node.md" --> "exchange_single_node.RST" [refined:10/14/2018]
-
-  - process flow
  
 * create methods information list (api, database_api(classes/struct) methods names and descriptions. index page)
 * about Transactions processes (elements flows charts?)
@@ -40,7 +37,9 @@ Documentation Plan
 * think how to introduce (transaction, orders, history, ElasticSearch Pluin, ... processes/methods)
 * create a wiki legacy folder and create pages. [working on: 10/12/2018]
 * create a Test cases index page - categories, test cases name list 
+* Update "exchange_single_node.md" --> "exchange_single_node.RST" [refined:10/14/2018]
 
+  - process flow
 
 |
 
