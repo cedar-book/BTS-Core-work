@@ -43,6 +43,17 @@ Documentation Plan
 
 |
 
+---------------
+
+Questions
+==========================
+
+* Do vesting balances count towards voting power? [10/18/2018] --> Cashback does. Others no
+
+  - Would it be possible that you reseach that question and add to docs? (basically add to voting section what counts towards voting power)
+  - https://github.com/bitshares/bitshares-ui/issues/1934#issuecomment-430948993 
+  
+
 -------
 
 
