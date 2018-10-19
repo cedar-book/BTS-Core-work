@@ -5,7 +5,8 @@ Documentation Plan
 ***********************
 (This section lists items I am going to work on or have been working on.)
 
- 
+* update the dev doc (check feature release)
+* about question "Do vesting balances count towards voting power?"
 * create methods information list (api, database_api(classes/struct) methods names and descriptions. index page)
 * about Transactions processes (elements flows charts?)
 
