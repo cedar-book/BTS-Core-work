@@ -53,7 +53,7 @@ Questions
 
   - Would it be possible that you reseach that question and add to docs? (basically add to voting section what counts towards voting power)
   - https://github.com/bitshares/bitshares-ui/issues/1934#issuecomment-430948993 
-  
+  - https://bitsharestalk.org/index.php/topic,20962.0.html
 
 -------
 
