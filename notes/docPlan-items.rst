@@ -6,6 +6,11 @@ Documentation Plan
 (This section lists items I am going to work on or have been working on.)
 
 * update the dev doc (check feature release)
+* create an index page for the dev website (different groups and sorts)
+  - adding better index to API calls
+* add contents to Tutorials and FAQs
+  - updates Full Node releted information.
+  
 * about question "Do vesting balances count towards voting power?"
 * create methods information list (api, database_api(classes/struct) methods names and descriptions. index page)
 * about Transactions processes (elements flows charts?)
@@ -27,9 +32,6 @@ Documentation Plan
     
     - (login, enable_api, network, broadcase_api, on_applied_block, broadcase_transaction, broad_transaction_synchronous, brodcast_block, broadcast_transaction_with_callback, get_info, add_node, get_fill_order_history, get_account_history, get_account_history_operations, get_relative_account_history, get_account_history_by_operations, get_market_history,..)
   
-* create an index page for the dev website (different groups and sorts)
-* add contents to Tutorials and FAQs
-
 * Multi-sig UI - How to set and use?
 * show directory structures and files after the installation (node/wallet) 
 
@@ -54,6 +56,8 @@ Questions
   - Would it be possible that you reseach that question and add to docs? (basically add to voting section what counts towards voting power)
   - https://github.com/bitshares/bitshares-ui/issues/1934#issuecomment-430948993 
   - https://bitsharestalk.org/index.php/topic,20962.0.html
+
+* about localization 
 
 -------
 
