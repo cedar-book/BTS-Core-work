@@ -8,11 +8,13 @@ Documentation Plan
 * update the dev doc (check feature release)
 * create an index page for the dev website (different groups and sorts)
 
-  - adding better index to API calls
+  - create better index for API calls
+  - added new Calls
   
 * add contents to Tutorials and FAQs
 
-  - updates Full Node releted information.
+  - updated Full Node releted information
+  - added links to refer other contents
 
 * create How to contribute information page   
 * about question "Do vesting balances count towards voting power?"
