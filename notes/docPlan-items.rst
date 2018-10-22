@@ -13,7 +13,8 @@ Documentation Plan
 * add contents to Tutorials and FAQs
 
   - updates Full Node releted information.
-  
+
+* create How to contribute information page   
 * about question "Do vesting balances count towards voting power?"
 * create methods information list (api, database_api(classes/struct) methods names and descriptions. index page)
 * about Transactions processes (elements flows charts?)
