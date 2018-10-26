@@ -5,6 +5,7 @@ Documentation Plan
 ***********************
 (This section lists items I am going to work on or have been working on.)
 
+* Research (vote, vesting balance, transaction, smart contract, escrow, and components)
 * update the dev doc (check feature release)
 * create an index page for the dev website (different groups and sorts)
 
