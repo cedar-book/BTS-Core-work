@@ -5,17 +5,19 @@ Documentation Plan
 ***********************
 (This section lists items I am going to work on or have been working on.)
 
-
+* Research about Nodes
+  - express Nodes Types, update the contentes, add glossary, created an image, etc. [x]  
 * Research (vote, vesting balance, transaction, smart contract, escrow, fees, and components)
 * update the dev doc (check feature release)
+  - (still working on)
 * create an index page for the dev website (different groups and sorts)
 
-  - create better index for API calls
-  - added new Calls
+  - create better index for API calls pages [x]
+  - added new Calls in pages items lists [x]
   
 * add contents to Tutorials and FAQs
 
-  - updated Full Node releted information
+  - updated Full Node releted information [x]
   - added links to refer other contents
 
 * create How to contribute information page   
