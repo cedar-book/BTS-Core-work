@@ -3,7 +3,7 @@
 ***********************
 Documentation Plan
 ***********************
-(This section lists items I am going to work on or have been working on.)
+(This section lists items - have been working on.)
 
 * Research about Nodes
 
@@ -75,8 +75,10 @@ Documentation Plan
 * create a wiki legacy folder and create pages. [working on: 10/12/2018]
 * create a Test cases index page - categories, test cases name list 
 * Update "exchange_single_node.md" --> "exchange_single_node.RST" [refined:10/14/2018]
+* wiki pages
 
-  - process flow
+  - [x] created only lagacy page
+  - [ ] create exactly same contents and add to create a section for wiki info?
 
 |
 
