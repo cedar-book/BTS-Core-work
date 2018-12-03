@@ -6,14 +6,21 @@ Documentation Plan
 (This section lists items I am going to work on or have been working on.)
 
 * Research about Nodes
+
   - [x-] express Nodes Types, update the contentes
   - [x-] add glossary, create an image, etc. 
+  
 * Research 
+
   - [x-] Account section (vote, vesting balance, fee)
   - [ ] transaction, smart contract, escrow, and components
+  
 * update the dev doc (check feature release)
+
   - [ ] (still working on)
+  
 * create an index page for the dev website (different groups and sorts)
+
   - [x] create better index for API calls pages 
   - [x] added new Calls in pages items lists 
   
@@ -24,18 +31,26 @@ Documentation Plan
   - [ ] added links to refer other contents
 
 * create How to contribute information page  
+
   - [ ] had an idea however, rethink another better way
+  
 * about question "Do vesting balances count towards voting power?"
+
   - [ ] vesting balances amounts, voting power
+  
 * create a methods information list (api, database_api(classes/struct) methods names and descriptions. )
+
   - [ ] (e.g., quick index page)
+  
 * about Transactions processes (elements flows charts?)
+
   - [x] added a flow chart pdf
   - [ ] validation, history, blocks, ...
   
 * create Flowcharts
 
   - [x-] transaction.hhp
+  
     - [x] transaction flowchart pdf
     
     - [ ] (draft)(get_required_autotities, signed_transaction, sign, minimize-required_signatures, get_required_siguratures, verify_authority, get_signatures_keys, sign_state, ..)
@@ -49,10 +64,12 @@ Documentation Plan
     - [ ] (draft)(login, enable_api, network, broadcase_api, on_applied_block, broadcase_transaction, broad_transaction_synchronous, brodcast_block, broadcast_transaction_with_callback, get_info, add_node, get_fill_order_history, get_account_history, get_account_history_operations, get_relative_account_history, get_account_history_by_operations, get_market_history,..)
   
 * Multi-sig UI 
+
   - [ ] How to set and use?
+  
 * show directory structures and files after the installation (node/wallet) 
-  - [ ]
-  - (i.e., datadir... )
+
+  - [ ] (i.e., datadir... )
 
 * think how to introduce (transaction, orders, history, ElasticSearch Pluin, ... processes/methods)
 * create a wiki legacy folder and create pages. [working on: 10/12/2018]
