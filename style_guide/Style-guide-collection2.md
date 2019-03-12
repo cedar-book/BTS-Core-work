@@ -1,9 +1,6 @@
 
 # Coding Standard / Guide -- Collection <2>
 
-#### Table of Contents:
-- [aaa ](#bitshares-members)
-
 --------------------
 
 ### Organizational and Policy Issues 
