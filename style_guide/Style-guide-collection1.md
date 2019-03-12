@@ -2,11 +2,11 @@
 # Coding Standard / Guide -- Collection <1>
 
 #### Table of Contents:
-- [aaa ](#bitshares-members)
+- [XX ](#bitshares-members)
 
 --------------------
 
-## Intro
+## Introduction
 
 ### Standardization is Important
 
@@ -21,7 +21,7 @@ When a project tries to adhere to common standards a few good things happen:
 - People new to C++ are spared the need to develop a personal style and defend it to the death.
 - People new to C++ are spared making the same mistakes over and over again.
 - People make fewer mistakes in consistent environments.
-- Programmers have a common enemy :-) 
+- Programmers have a common enemy 
 
 #### Bad Points
 
@@ -41,7 +41,7 @@ The experience of many projects leads to the conclusion that using coding standa
 
 ## Standards Enforcement
 
-First, any serious concerns about the standard should be brought up and worked out within the group. Maybe the standard is not quite appropriate for your situation. It may have overlooked important issues or maybe someone in power vehemently disagrees with certain issues :-)
+First, any serious concerns about the standard should be brought up and worked out within the group. Maybe the standard is not quite appropriate for your situation. It may have overlooked important issues or maybe someone in power vehemently disagrees with certain issues 
 
 In any case, once finalized hopefully people will play the adult and understand that this standard is reasonable, and has been found reasonable by many other programmers, and therefore is worthy of being followed even with personal reservations.
 
@@ -51,7 +51,9 @@ Failing that the only solution is a massive tickling party on the offending part
 
 *************
 
-**** PERL ****
+*************
+
+**** PERL coding guide ****
 
 Each programmer will, of course, have his or her own preferences in regards to formatting, but there are some general guidelines that will make your programs easier to read, understand, and maintain.
 
