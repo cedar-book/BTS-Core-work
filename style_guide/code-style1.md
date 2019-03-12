@@ -1,6 +1,4 @@
-## DRAFT
-
-## BitShares Coding Standard / Guide
+## DRAFT -- BitShares Coding Standard / Guide
 
 ### Introduction
 (*what types of issues we have been experiencing?*)
