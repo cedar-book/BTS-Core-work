@@ -31,6 +31,7 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 - [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) - When new fields are added or removed to objects; a bump of the database is needed.
 - Avoid global variables. From [#1324 (comment)](https://github.com/bitshares/bitshares-core/pull/1324#issuecomment-439715251)
 
+|
 
 ### Formatting
 - Maximum line length: 118 (*That's what you can see on github without side-scrolling)
