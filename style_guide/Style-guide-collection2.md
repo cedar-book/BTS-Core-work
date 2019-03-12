@@ -1,6 +1,8 @@
 
 # Coding Standard / Guide -- Collection <2>
 
+> These are examples when you think about coding style for the BitShares.
+
 ### Organizational and Policy Issues 
 
 - Don't sweat the small stuff. (Or: Know what not to standardize.) 
