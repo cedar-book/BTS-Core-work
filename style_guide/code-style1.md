@@ -12,7 +12,7 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 #### Discussion
 
 - [Define coding style guidelines #1318](https://github.com/bitshares/bitshares-core/issues/1318)
-- A few more styles ideas obtained from https://github.com/bitshares/bitshares-core/pull/1419/files
+
 
 ***
 
