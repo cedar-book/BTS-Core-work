@@ -2,12 +2,12 @@
 
 ## BitShares Coding Standard / Guide
 
-## Introduction
+### Introduction
 (*what types of issues we have been experiencing?*)
 
-### Standardization is Important
+#### Standardization is Important
 
-### Discussion
+#### Discussion
 
 
 ***
