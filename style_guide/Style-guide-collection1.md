@@ -48,22 +48,26 @@ Failing that the only solution is a massive tickling party on the offending part
 
 *************
 
-### Other Coding Style Guidelines 
+### Other Coding Style Guidelines (*suggestions*)
 
-- Put Your Name On Your Code
-- Class Member Variables Use Snake Case Notation
-- Class Functions Use Camel-Hump Notation
-- Column Width
+1 Put Your Name On Your Code
+2 Class Member Variables Use Snake Case Notation
+3 Class Functions Use Camel-Hump Notation
+4 Column Width
    - A column of code should be no greater than xx-xx characters wide. Limiting the column width is motivated by wanting to see more than one column on the screen and avoiding wrap-around in a text editor. Seeing code side-by-side is really useful, especially in C++ where much of coding is done on a class implementation and it's nice to see the class definition simultaneously. Most editors with a C++ mode will automatically elegantly indent a single line of code broken up over more
 then one line. In Emacs you can set the fill column width in your .emacs file with:
-
-- Code Indentation Two Spaces
-- Close Braces Should Be On Their Own Line
-- Open Braces - When They Should Be On Their Own Line
-- Commenting Class Functions
-- Class Interface Organization
-- Class Names - Short and Unique
-- Function Return Statements Use Parentheses
+5 Code Indentation Two Spaces
+   - The choice of either two or four spaces is simply a matter of style and motivated by wanting to have thinner columns of code, usually to get more than one column of code viewable with limited screen real estate. You may have to configure your editor to do this, as most editors have automatic indentation. Make sure your editor is not configured to have a TAB indent, which may map to 2 or 4 spaces. Try to make it explicitly two spaces.
+6 Close Braces Should Be On Their Own Line
+   - Any block of code contained within a set of braces, should end with a single line with the final closing brace. This includes not only for example, for loops, while loops, and conditional block, but the end of functions as well.
+7 Open Braces - When They Should Be On Their Own Line 
+   - Function and class definitions always involve an open and close brace. This should always go on its
+own line.
+   - The motivation for the latter is that it simply reduces the number of nearly-empty lines containing just the brace. While having an open brace on its own line at the beginning of a function introduces a nearly-empty line, this is limited to at most one per function. On the other hand there may be many conditional and loop blocks in a single function and this can seriously stretch out the code.  And this in turn means more scrolling to see the same lines of code.
+8 Commenting Class Functions
+9 Class Interface Organization
+10 Class Names - Short and Unique
+11 Function Return Statements Use Parentheses
 
 *****
 
