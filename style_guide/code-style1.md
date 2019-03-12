@@ -19,10 +19,6 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 ### General 
 - Prefer FC_ASSERT instead of assert
 
-- [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) - When new fields are added or removed to objects; a bump of the database is needed.
-
-
-
 ### Formatting
 - Maximum line length: 118 (*That's what you can see on github without side-scrolling)
 - 3 spaces indentation everywhere possible.
