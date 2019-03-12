@@ -1,5 +1,5 @@
 
-# Coding Standard / Guide -- Collection
+# Coding Standard / Guide -- Collection <1>
 
 #### Table of Contents:
 - [aaa ](#bitshares-members)
