@@ -68,10 +68,10 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 ---
 
 ### Architecture
-- Create/modify/delete of the database inside operation evaluator must be done in `do_apply` and never in `do_evaluate` - [From #1449 (comment)](https://github.com/bitshares/bitshares-core/pull/1449#discussion_r236381016)
-   - For an architectural decision that is specific to BitShares-Core codebase.
+- Create/modify/delete of the database inside operation evaluator must be done in `do_apply` and never in `do_evaluate` - [From #1449 (comment)](https://github.com/bitshares/bitshares-core/pull/1449#discussion_r236381016)  
 - When new fields are added or removed to objects; a bump of the database is needed. [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) 
 
+---
 
 ### Pull Requests
 - Pull requests should add/modify/delete the minimum amount code possible to develop 1 and only 1 feature or concept. [From #1467](https://github.com/bitshares/bitshares-core/pull/1467) - Pull doing several stuff at once.
