@@ -33,7 +33,7 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 
 ##### Discussion - spacing and padding
   - [4 spaces of indentation](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-468077506), and do away with padding the insides of parentheses.
-
+    - [Comments](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472125824)
 
 
 ### Comments
