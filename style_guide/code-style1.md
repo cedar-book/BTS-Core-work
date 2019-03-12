@@ -1,4 +1,4 @@
-## DRAFT -- BitShares Coding Standard / Guide
+## DRAFT -- BitShares Coding Style / Guide
 
 #### Standardization 
 
