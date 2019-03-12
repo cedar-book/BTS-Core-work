@@ -7,6 +7,7 @@
 
 #### Discussion
 
+Define coding style guidelines #1318
 
 ***
 
