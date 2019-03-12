@@ -1,10 +1,8 @@
 
-## Coding Standard / Guide -- Collection <1>
+# Coding Standard / Guide -- Collection <1>
 
 
---------------------
-
-### Introduction
+## Introduction
 
 ### Standardization is Important
 
