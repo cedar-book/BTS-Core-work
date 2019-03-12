@@ -1,7 +1,7 @@
 
 # Coding Standard / Guide -- Collection <2>
 
-> These are example information. When you think about the coding style for BitShares, you might wanto to add similer items.
+> These are suggestions and might be useful information. When you think about the coding style for BitShares
 
 ### Organizational and Policy Issues 
 
