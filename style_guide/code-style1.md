@@ -1,13 +1,8 @@
 ## DRAFT -- BitShares Coding Standard / Guide
 
-### Introduction
-(*what types of issues we have been experiencing?*)
+#### Standardization 
 
-#### Standardization is Important
-
-Most of them are or should be specific to BitShares-Core codebase. Architectural ones i think should be included as well(maybe as a separate document or whatever).
-
-It saves time to the programmer and reviewer if the coder know beforehand she should not be doing it that way.
+This Cording Style Guide are specific to BitShares-Core codebase. It will save time to the programmer and reviewer.
 
 #### Discussion
 
