@@ -5,21 +5,36 @@
 
 #### Standardization is Important
 
+Most of them are or should be specific to BitShares-Core codebase. Architectural ones i think should be included as well(maybe as a separate document or whatever).
+
+It saves time to the programmer and reviewer if the coder know beforehand she should not be doing it that way.
+
 #### Discussion
 
-Define coding style guidelines #1318
+- [Define coding style guidelines #1318](https://github.com/bitshares/bitshares-core/issues/1318)
+- A few more styles ideas obtained from https://github.com/bitshares/bitshares-core/pull/1419/files
 
 ***
 
 ### General 
-- 
-- 
+- Method names should be all lowercase with "_" as word separator: [#1271 (comment)](https://github.com/bitshares/bitshares-core/pull/1271#discussion_r224833813)
+- Long calls, definitions or declarations are recommended to use this style: [496c622](https://github.com/bitshares/bitshares-core/commit/496c6229e13bd511c2380f9c8d540e68bd65a65d)
+- Avoid multiple empty new lines in code, in general 1 empty line is enough to separate blocks of code.
+- Prefer FC_ASSERT instead of assert
+- Remove commented code. Comments can be made when code seems not enough to explain an idea, that comments are genrally used in test cases and explain in plain English what is happening. Commented code should not be submitted, just delete it.
+- In lambda, prefer capture variables explicitly if what you need is not too many.
+- n a huge refactoring please do it in small steps in individual commits that are easily verifiable. This makes the reviewer life a bit easier. - [From: #1413 (comment)](https://github.com/bitshares/bitshares-core/pull/1413#issuecomment-437932230)
+- create/modify/delete of the database inside operation evaluator must be done in do_apply and never in do_evaluate - [From #1449 (comment)](https://github.com/bitshares/bitshares-core/pull/1449#discussion_r236381016)
+   - The last one is not really coding style but an architectural decision that is specific to our codebase.
+- Pull requests should add/modify/delete the minimum amount code possible to develop 1 and only 1 feature or concept. [From #1467](https://github.com/bitshares/bitshares-core/pull/1467) - Pull doing several stuff at once.
+- Pull requests in bitshares can only be made against 2 branches: `develop` if there is a non consensus related change or `hardfork` if it is modifying consensus.
+- [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) - When new fields are added or removed to objects; a bump of the database is needed.
+- Avoid global variables. From [#1324 (comment)](https://github.com/bitshares/bitshares-core/pull/1324#issuecomment-439715251)
 
 
 ### Formatting
-- 
-- 
-
+- 3 spaces indentation everywhere possible.
+- newline at the end of each file.
 
 ### Comments
 - 
@@ -41,7 +56,7 @@ Define coding style guidelines #1318
 
 
 ### Functions
-- 
+- When defining a function:  `{` should always be in a new line.
 - 
 
 ### Exception Rules 
