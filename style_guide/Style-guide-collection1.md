@@ -1,8 +1,9 @@
 
 # Coding Standard / Guide -- Collection <1>
 
+> These are sample guide. When you think about the coding style for BitShares.
 
-## Introduction
+
 
 ### Standardization is Important
 
