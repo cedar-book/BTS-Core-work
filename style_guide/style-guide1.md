@@ -1,8 +1,8 @@
 
-# ICoding Standard / Guide -- DRAFT
+# Coding Standard / Guide -- Collection
 
 #### Table of Contents:
-- [BitShares ](#bitshares-members)
+- [aaa ](#bitshares-members)
 
 --------------------
 
@@ -50,10 +50,6 @@ Failing willing cooperation it can be made a requirement that this standard must
 Failing that the only solution is a massive tickling party on the offending party. 
 
 *************
-
-
-
-
 
 Each programmer will, of course, have his or her own preferences in regards to formatting, but there are some general guidelines that will make your programs easier to read, understand, and maintain.
 
