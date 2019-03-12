@@ -1,6 +1,6 @@
 ## Coding Standard / Guide -- Collection <3>
 
-> These are perl coding style guide examples.
+> These are perl coding style guide examples. (to give you some ideas)
 
 ### PERL coding guide (as sample) 
 
