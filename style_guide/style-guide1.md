@@ -1,23 +1,19 @@
 
+# ICoding Standard / Guide -- DRAFT
 
-****************************
-Coding Standard / Guide -- DRAFT
-****************************
-
-.. contents:: Table of Contents
-   :local:
+#### Table of Contents:
+- [BitShares Members](#bitshares-members)
 
 --------------------
 
-Intro
-==========================
+## Intro
 
- Standardization is Important
+#### Standardization is Important
  --------------------------------
  
 It helps if the standard annoys everyone in some way so everyone feels they are on the same playing field. The proposal here has evolved over many projects, many companies, and literally a total of many weeks spent arguing. It is no particular person's style and is certainly open to local amendments.
 
-Good Points 
+### Good Points 
 ---------------------
 When a project tries to adhere to common standards a few good things happen:
 
