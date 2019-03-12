@@ -51,6 +51,8 @@ Failing that the only solution is a massive tickling party on the offending part
 
 *************
 
+**** PERL ****
+
 Each programmer will, of course, have his or her own preferences in regards to formatting, but there are some general guidelines that will make your programs easier to read, understand, and maintain.
 
 The most important thing is ...   
@@ -78,7 +80,9 @@ Regarding aesthetics of code lay out, about the only thing cares strongly about 
 
 Here are some other more substantive style issues to think about: 
 Just because you CAN do something a particular way doesn't mean that you SHOULD do it that way. 
---- is designed to give you several ways to do anything, so consider picking the most readable one. For instance −
+--- is designed to give you several ways to do anything, so consider picking the most readable one. 
+
+**For instance −**
 
 `open(FOO,$foo) || die "Can't open $foo: $!";`
 
