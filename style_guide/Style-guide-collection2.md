@@ -1,8 +1,6 @@
 
 # Coding Standard / Guide -- Collection <2>
 
---------------------
-
 ### Organizational and Policy Issues 
 
 - Don't sweat the small stuff. (Or: Know what not to standardize.) 
