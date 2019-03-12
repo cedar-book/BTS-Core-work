@@ -1,6 +1,6 @@
-# DRAFT
+## DRAFT
 
-**BitShares Coding Standard / Guide**
+## BitShares Coding Standard / Guide
 
 ## Introduction
 (*what types of issues we have been experiencing?*)
@@ -13,11 +13,41 @@
 ***
 
 ### General 
+- 
+- 
 
 
+### Formatting
+- 
+- 
 
 
+### Comments
+- 
+- 
 
+### Naming
+- 
+- 
+
+
+### Scoping
+- 
+- 
+
+
+### Classes
+- 
+- 
+
+
+### Functions
+- 
+- 
+
+### Exception Rules 
+- 
+- 
 
 
 
