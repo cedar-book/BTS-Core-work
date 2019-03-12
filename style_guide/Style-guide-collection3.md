@@ -1,14 +1,12 @@
 ## Coding Standard / Guide -- Collection <3>
 
-> These are perl coding style guide examples (to give you some ideas)
+> These are perl coding style guide items. I thought we might want to add similer items (*after updated for BitShares coding style)
 
 ### PERL coding guide (as sample) 
 
 Each programmer will, of course, have his or her own preferences in regards to formatting, but there are some general guidelines that will make your programs easier to read, understand, and maintain.
 
-The most important thing is ...   
-
-Regarding aesthetics of code lay out, about the only thing cares strongly about is.... Beyond that, other preferences that aren't so strong −
+Some preferences...
 
 - 4-column indent.
 - Opening curly on same line as keyword, if possible, otherwise line up.
