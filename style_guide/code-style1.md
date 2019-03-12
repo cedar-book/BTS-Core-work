@@ -20,9 +20,8 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 - Prefer FC_ASSERT instead of assert
 
 - [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) - When new fields are added or removed to objects; a bump of the database is needed.
-- Avoid global variables. From [#1324 (comment)](https://github.com/bitshares/bitshares-core/pull/1324#issuecomment-439715251)
 
-----
+
 
 ### Formatting
 - Maximum line length: 118 (*That's what you can see on github without side-scrolling)
@@ -35,41 +34,41 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 ##### Discussion - spacing and padding
   - [4 spaces of indentation](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-468077506), and do away with padding the insides of parentheses.
 
----
+
 
 ### Comments
 - Remove commented code. Comments can be made when code seems not enough to explain an idea, that comments are generally used in test cases and explain in plain English what is happening. Commented code should not be submitted, just delete it. 
 - 
 
----
+
 
 ### Naming
 - Method names should be all lowercase with "_" as word separator: [#1271 (comment)](https://github.com/bitshares/bitshares-core/pull/1271#discussion_r224833813)
 - 
 
 
----
+
 
 ### Scoping
 - In lambda, prefer capture variables explicitly if what you need is not too many.
 - In a huge refactoring please do it in small steps in individual commits that are easily verifiable. This makes the reviewer life a bit easier. - [From: #1413 (comment)](https://github.com/bitshares/bitshares-core/pull/1413#issuecomment-437932230)
-- 
+- Avoid global variables. From [#1324 (comment)](https://github.com/bitshares/bitshares-core/pull/1324#issuecomment-439715251)
 
 
----
+
+
 
 ### Classes
 - 
 - 
 
 
----
 
 ### Functions
 - When defining a function:  `{` should always be in a new line.
 - 
 
----
+
 
 ### Exception Rules 
 - 
@@ -80,10 +79,12 @@ It saves time to the programmer and reviewer if the coder know beforehand she sh
 ### Architecture
 - Create/modify/delete of the database inside operation evaluator must be done in `do_apply` and never in `do_evaluate` - [From #1449 (comment)](https://github.com/bitshares/bitshares-core/pull/1449#discussion_r236381016)
    - For an architectural decision that is specific to BitShares-Core codebase.
-- 
+- When new fields are added or removed to objects; a bump of the database is needed. [From: #1449 (review)](https://github.com/bitshares/bitshares-core/pull/1449#pullrequestreview-185101298) 
+
 
 ### Pull Requests
-
+- Pull requests should add/modify/delete the minimum amount code possible to develop 1 and only 1 feature or concept. [From #1467](https://github.com/bitshares/bitshares-core/pull/1467) - Pull doing several stuff at once.
+- Pull requests in bitshares can only be made against 2 branches: `develop` if there is a non consensus related change or `hardfork` if it is modifying consensus.
 
 
 
