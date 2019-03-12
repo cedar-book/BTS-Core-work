@@ -1,7 +1,7 @@
 
 # Coding Standard / Guide -- Collection <1>
 
-> These are sample guide. When you think about the coding style for BitShares.
+> These are example information. When you think about the coding style for BitShares, might be useful.
 
 
 
