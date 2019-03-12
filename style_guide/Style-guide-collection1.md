@@ -48,6 +48,23 @@ Failing that the only solution is a massive tickling party on the offending part
 
 *************
 
+### Other Coding Style Guidelines 
 
+- Put Your Name On Your Code
+- Class Member Variables Use Snake Case Notation
+- Class Functions Use Camel-Hump Notation
+- Column Width
+   - A column of code should be no greater than xx-xx characters wide. Limiting the column width is motivated by wanting to see more than one column on the screen and avoiding wrap-around in a text editor. Seeing code side-by-side is really useful, especially in C++ where much of coding is done on a class implementation and it's nice to see the class definition simultaneously. Most editors with a C++ mode will automatically elegantly indent a single line of code broken up over more
+then one line. In Emacs you can set the fill column width in your .emacs file with:
+
+- Code Indentation Two Spaces
+- Close Braces Should Be On Their Own Line
+- Open Braces - When They Should Be On Their Own Line
+- Commenting Class Functions
+- Class Interface Organization
+- Class Names - Short and Unique
+- Function Return Statements Use Parentheses
+
+*****
 
 
