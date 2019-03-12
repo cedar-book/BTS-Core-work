@@ -1,7 +1,7 @@
-# Coding Standard / Guide -- Collection <3>
+## Coding Standard / Guide -- Collection <3>
 
 
-#### PERL coding guide (as sample) 
+### PERL coding guide (as sample) 
 
 Each programmer will, of course, have his or her own preferences in regards to formatting, but there are some general guidelines that will make your programs easier to read, understand, and maintain.
 
