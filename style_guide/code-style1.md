@@ -19,6 +19,7 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 - newline at the end of each file.
 - Avoid multiple empty new lines in code, in general 1 empty line is enough to separate blocks of code.
 - Long calls, definitions or declarations are recommended to use this style: [496c622](https://github.com/bitshares/bitshares-core/commit/496c6229e13bd511c2380f9c8d540e68bd65a65d)
+- TBD spaces
 
 
 #### Discussion - *spaces* and *tabs*
