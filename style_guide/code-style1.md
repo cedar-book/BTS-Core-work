@@ -21,7 +21,7 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 - Long calls, definitions or declarations are recommended to use this style: [496c622](https://github.com/bitshares/bitshares-core/commit/496c6229e13bd511c2380f9c8d540e68bd65a65d)
 
 
-#### Discussion - spaces and tabs
+#### Discussion - *spaces* and *tabs*
 
   - 3 spaces indentation
     - [Comment](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472376797)
