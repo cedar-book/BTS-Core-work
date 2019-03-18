@@ -22,7 +22,7 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 - TBD spaces
 
 
-#### Discussion - *spaces* and *tabs*
+#### Discussion - *spaces* and *padding*
 
   - 3 spaces indentation
     - [Comment](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472376797)
