@@ -16,15 +16,24 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 
 ### Formatting
 - Maximum line length: 118 (*That's what you can see on github without side-scrolling)
-- 3 spaces indentation everywhere possible.
 - newline at the end of each file.
 - Avoid multiple empty new lines in code, in general 1 empty line is enough to separate blocks of code.
 - Long calls, definitions or declarations are recommended to use this style: [496c622](https://github.com/bitshares/bitshares-core/commit/496c6229e13bd511c2380f9c8d540e68bd65a65d)
 
 
 ##### Discussion - spacing and padding
+
+  - 3 spaces indentation
+    - [Comment](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472376797)
   - [4 spaces of indentation](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-468077506), and do away with padding the insides of parentheses.
-    - [Comments](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472125824)
+    - [Comment](https://github.com/bitshares/bitshares-core/issues/1318#issuecomment-472125824)
+
+**Suggestions**
+- We should
+   - come to a consensus regarding formatting rules
+   - find a tool that can do it automatically
+   - make a big whitespace-only change
+
 
 
 ### Comments
