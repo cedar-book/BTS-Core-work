@@ -7,7 +7,8 @@ This Cording Style Guide are specific to BitShares-Core codebase. It will save t
 #### Discussion
 
 - [Define coding style guidelines #1318](https://github.com/bitshares/bitshares-core/issues/1318)
-
+- Additional Context (optional)
+   - https://isocpp.org/wiki/faq/coding-standards
 
 ----
 
